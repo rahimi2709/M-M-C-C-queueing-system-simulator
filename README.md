@@ -1,0 +1,2 @@
+# M-M-C-C-queueing-system-simulator
+M/M/C/C queueing system is a system that has C servers and there is no waiting queue position and a maximum number of customers which can be served at the same time is C customers. So, when all of C servers are busy each new customer will be blocked or lose the service from servers. In this coursework servers are channels of Mobile Wireless System and service is the call duration of each customer in the system.
